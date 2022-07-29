@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(255, 227, 189);
+}
 .container{
     height: 100vh;
     width: 100vw;
@@ -21,7 +24,7 @@
 }
 
 .weather-box{
-    background-color: aquamarine;
+    background-color: aquamarine; 
     height: 70vh;
     width: 25vw;
     display: grid;
@@ -137,4 +140,9 @@
     .heading{
         font-size: 1rem;
     }
+    /* .design1,.design2,.design3{
+        margin-top: 23rem;
+        height: 20rem;
+        width: 20rem;
+    } */
 }
