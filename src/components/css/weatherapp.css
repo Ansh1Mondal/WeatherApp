@@ -25,6 +25,7 @@ body{
 }
 
 .weather-box{
+    margin-top: -8rem;
     background-color: aquamarine; 
     height: 70vh;
     width: 25vw;
